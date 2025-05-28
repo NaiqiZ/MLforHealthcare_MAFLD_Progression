@@ -2,7 +2,6 @@
 
 This repository documents our project from the MIT EECS and Sloan MLHC 2025 collaboration, focused on early prognosis of Metabolic Dysfunction-Associated Fatty Liver Disease (MAFLD) using deep learning and structured EHR data from Mass General Brigham.
 
----
 
 ## Project Overview
 
@@ -16,7 +15,7 @@ We also implemented SHAP interpretation and regression analysis to identify key 
 
 The goal: to improve early clinical risk stratification and guide potential treatment strategies.
 
----
+
 
 ## Methods
 
@@ -26,7 +25,7 @@ The goal: to improve early clinical risk stratification and guide potential trea
 - **Baselines**: Logistic regression, linear regression, and Cox PH model for comparison.
 - **Class Imbalance Techniques**: SMOTE, downsampling, and weighted loss—none improved generalization.
 
----
+
 
 ## Key Insights
 
@@ -35,7 +34,7 @@ The goal: to improve early clinical risk stratification and guide potential trea
 - SHAP analysis revealed influential features: cholesterol levels, reticulocyte counts, and BMI before diagnosis.
 - Class imbalance remains a major limitation—future work may leverage larger datasets or text data.
 
----
+
 
 ## Team
 
