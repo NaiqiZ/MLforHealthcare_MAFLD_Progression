@@ -1,6 +1,6 @@
 # Early Prognosis of MAFLD Progression Using Deep Learning
 
-This repository documents our project from the MIT EECS and Sloan MLHC 2025 collaboration, focused on early prognosis of Metabolic Dysfunction-Associated Fatty Liver Disease (MAFLD) using deep learning and structured EHR data from Mass General Brigham.
+This repository documents our project from the MIT EECS Course (6.7930), focused on early prognosis of Metabolic Dysfunction-Associated Fatty Liver Disease (MAFLD) using deep learning and structured EHR data from Mass General Brigham.
 
 
 ## Project Overview
@@ -13,8 +13,7 @@ We developed and evaluated three models to predict MAFLD progression using struc
 
 We also implemented SHAP interpretation and regression analysis to identify key biomarkers of progression.
 
-The goal: to improve early clinical risk stratification and guide potential treatment strategies.
-
+The goal: to imporve early clinical risk stratification and reveals predictive biomarkers
 
 
 ## Methods
